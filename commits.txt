@@ -1,0 +1,42 @@
+commit c1270b2b7649fb13c1d85800640f712cc4d0bd99
+Author: Snigdha04 <snigdha0410@gmail.com>
+Date:   Mon Sep 5 12:54:25 2022 -0400
+
+    Update README.md
+
+commit 97de7629422ad70ad35fd74343f35a1900e9aefe
+Merge: 4ce5b4c 30fad0d
+Author: Elton <eltonp3103@gmail.com>
+Date:   Fri Feb 18 09:24:15 2022 -0500
+
+    Merge branch 'lab1' of https://github.gatech.edu/cs3210-spring2022/xv6 into lab1
+
+commit 4ce5b4c2eb42065f4bdbc60f2802ce6b2f3e54d0
+Author: Elton <eltonp3103@gmail.com>
+Date:   Fri Feb 18 09:22:44 2022 -0500
+
+    Add collab policy
+
+commit 30fad0dc8217f73390ba3f49dc2d88e5dbbc47fd
+Author: Pinto, Elton Leander <eltonp3103@gatech.edu>
+Date:   Thu Jan 20 06:38:11 2022 -0500
+
+    Update README.md
+
+commit 7f80f484fe9eda5efd83fc9e56da83cd0d1335c1
+Author: Pinto, Elton Leander <eltonp3103@gatech.edu>
+Date:   Thu Jan 20 06:36:46 2022 -0500
+
+    Update README.md
+
+commit cf458e20a3c17824bc945a6326ae34e554d90137
+Author: Elton <eltonp3103@gmail.com>
+Date:   Tue Jan 18 13:01:23 2022 -0500
+
+    Update lab1 readme
+
+commit 13f3c745c6bbef8aad377f7c5c6294c17f583532
+Author: Jack Wolfard <jackwolfard@gmail.com>
+Date:   Sat Sep 4 01:36:22 2021 -0400
+
+    Update for Fall 2021
