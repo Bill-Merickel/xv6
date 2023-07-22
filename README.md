@@ -1,4 +1,4 @@
-# xv6 Modifications
+# xv6 Feature Modifications and Enhancements
 
 xv6 is a modern reimplementation of Sixth Edition Unix in ANSI C for multiprocessor x86 and RISC-V systems. It was created for pedagogical purposes in MIT's Operating System Engineering course in 2006. I have added four modifications to the xv6 kernel categorized as follows:
 
