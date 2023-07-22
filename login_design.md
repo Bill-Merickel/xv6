@@ -1,4 +1,4 @@
-# Design of Lab 4's Login System
+# Design of xv6 Login System
 
 ## Mechanisms for Securing
 
