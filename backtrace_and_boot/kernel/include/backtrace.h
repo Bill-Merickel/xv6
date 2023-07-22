@@ -1,6 +1,0 @@
-#ifndef KERNEL_INCLUDE_BACKTRACE_h_
-#define KERNEL_INCLUDE_BACKTRACE_h_
-
-void backtrace();
-
-#endif  // KERNEL_INCLUDE_BACKTRACE_h_
